@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\gary ograjsek\desktop\esc\escompitoprova007\escompitoprova007\main.cpp(10): error C2065: 'miaCoda': identificatore non dichiarato
+c:\users\gary ograjsek\desktop\esc\escompitoprova007\escompitoprova007\main.cpp(19): error C3861: 'Ordinamento': identificatore non trovato
+c:\users\gary ograjsek\desktop\esc\escompitoprova007\escompitoprova007\main.cpp(20): error C3861: 'Output': identificatore non trovato
